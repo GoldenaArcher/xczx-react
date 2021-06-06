@@ -1,0 +1,31 @@
+.footer {
+  height: 415px;
+  background-color: #fff;
+  margin-top: 15px;
+}
+/* copyright */
+.copyright p {
+  font-size: 12px;
+  color: #666;
+  margin: 20px 0 15px 0;
+}
+.download-app {
+  width: 118px;
+  height: 33px;
+}
+/* copyright */
+/* footer-links */
+.footer-links dl {
+  margin-left: 80px;
+  padding: 0 30px;
+  color: #333;
+}
+.footer-links dt {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.footer-links dd a {
+  font-size: 12px;
+  color: #333;
+}
+/* footer-links */
